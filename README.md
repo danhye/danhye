@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/danhye/danhye/blob/main/readme.png" />
+  <img src="https://github.com/danhye/danhye/blob/main/readme.jpg" />
 </div>
 
 <!--내용 부분-->
