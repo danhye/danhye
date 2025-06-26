@@ -1,7 +1,10 @@
 <!--타이틀 부분-->
 <div align="center">
  <!-- <img src="https://github.com/danhye/danhye/blob/main/readme.jpg" /> -->
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&text=booting...%20welcome%20to%20hello.danhye.github%20💻
+&fontAlign=70&stroke=00FF00&strokeWidth=3" />
+</div>
 </div>
 
 <!--내용 부분-->
