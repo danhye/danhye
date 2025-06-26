@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/danhye/danhye/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://github.com/danhye/danhye/blob/main/readme.png" />
 </div>
 
 <!--내용 부분-->
