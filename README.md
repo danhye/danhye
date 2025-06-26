@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=// TODO : keep LEEvelUp(); 🚀." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Hi,+I'm+DanHye!;Code,+Grow,+LEEvel+up+💻;개발하며+단단해지는+중입니다." alt="Typing SVG" />
 </h3>
 
 <p align="center">
