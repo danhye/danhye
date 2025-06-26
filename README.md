@@ -1,11 +1,12 @@
 <!--타이틀 부분-->
 <div align="center">
- <!-- <img src="https://github.com/danhye/danhye/blob/main/readme.jpg" /> -->
+  <img src="https://github.com/danhye/danhye/blob/main/readme.jpg" /> 
+</div>
+<br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&text=booting...%20welcome%20to%20hello.danhye.github%20💻
-&fontAlign=70&stroke=00FF00&strokeWidth=3" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1500&color=000000&center=true&vCenter=true&width=800&lines=%2F%2F%20TODO%20%3A%20keep%20LEEvelUp()%20%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-</div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
