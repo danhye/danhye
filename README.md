@@ -39,7 +39,6 @@
 <!-- 📏 구분선 -->
 <br>
 <hr style="border: none; height: 0.5px; background-color: #d3d3d3; ;" />
-<br>
 
 <!-- ✨ Tech Stack Section -->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -81,4 +80,14 @@
   <a href="https://velog.io/@danhye821">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
   </a>
+</p>
+
+<!-- 📏 구분선 -->
+<br>
+<hr style="border: none; height: 0.5px; background-color: #d3d3d3; ;" />
+
+<h3 align="center">🌱 My GitHub Contributions 🌱</h3>
+<br>
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF69B4/danhye" alt="GitHub chart" />
 </p>
