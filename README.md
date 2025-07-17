@@ -97,25 +97,18 @@
 <hr style="border: none; height: 0.5px; background-color: #d3d3d3; ;" />
 <h3 align="center">📊 GitHub Stats & Activity 📊</h3>
 
+<br>
 <p align="center">
   <a href="https://github.com/danhye">
     <img src="https://github-readme-stats.vercel.app/api?username=danhye&count_private=true&show_icons=true&theme=radical" height="165"/>
   </a>
-  <a href="https://github.com/danhye">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhye&layout=compact&theme=radical" height="165"/>
-  </a>
 </p>
 
+
 <!--
-<p align="center">
-  <a href="https://solved.ac/dan0628">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dan0628" alt="Solved.ac Badge"/>
-  </a>
-  &nbsp;
   <a href="https://solved.ac/dan0628">
     <img src="http://mazandi.herokuapp.com/api?handle=dan0628&theme=dark" alt="Solved.ac Grass"/>
   </a>
-</p>
 -->
 
 <p align="center">
@@ -123,10 +116,21 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=96edd70f-15d3-4d1e-acdd-7deed78dbe54&layout=compact&theme=radical" height="200"/>
   </a>
 </p>
-
+  <p align="center">
+  <a href="https://github.com/danhye">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhye&layout=compact&theme=radical" height="165"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://wakatime.com/badge/user/96edd70f-15d3-4d1e-acdd-7deed78dbe54.svg?style=flat-square"/>
   &nbsp;
 
 </p>
 
+<br><br>
+<p align="center">
+  <a href="https://solved.ac/dan0628">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dan0628" alt="Solved.ac Badge"/>
+  </a>
+  &nbsp;
+</p>
