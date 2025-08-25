@@ -129,8 +129,8 @@
 
 <br><br>
 <p align="center">
-  <a href="https://solved.ac/dan0628">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dan0628" alt="Solved.ac Badge"/>
+  <a href="https://solved.ac/danhye">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=danhye" alt="Solved.ac Badge"/>
   </a>
   &nbsp;
 </p>
