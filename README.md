@@ -91,9 +91,8 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/FF69B4/danhye" alt="GitHub chart" />
 </p>
-<br>
 
-<!-- 📏 구분선 -->
+<!--
 <hr style="border: none; height: 0.5px; background-color: #d3d3d3; ;" />
 <h3 align="center">📊 GitHub Stats & Activity 📊</h3>
 
@@ -105,11 +104,12 @@
 </p>
 
 
-<!--
+
   <a href="https://solved.ac/danhye">
     <img src="http://mazandi.herokuapp.com/api?handle=danhye&theme=dark" alt="Solved.ac Grass"/>
   </a>
--->
+
+
 
 <p align="center">
   <a href="https://wakatime.com/@danhye">
@@ -132,5 +132,6 @@
   <a href="https://solved.ac/danhye">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=danhye" alt="Solved.ac Badge"/>
   </a>
+-->
   &nbsp;
 </p>
